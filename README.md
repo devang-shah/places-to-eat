@@ -14,6 +14,7 @@ This repository has places to eat for the following cities:
 * [Newport Beach, CA](/locations/Newport Beach)
 * [Orlando, FL](/locations/Orlando)
 * [Seattle, WA](/locations/Seattle)
+* [Southlake, TX](/locations/Southlake)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
 
