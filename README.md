@@ -15,6 +15,7 @@ This repository has places to eat for the following cities:
 * [Orlando, FL](/locations/Orlando)
 * [San Francisco, CA](/locations/San Francisco)
 * [Seattle, WA](/locations/Seattle)
+* [Stamford, CT](/locations/Stamford)
 * [Southlake, TX](/locations/Southlake)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
