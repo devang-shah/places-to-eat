@@ -13,6 +13,7 @@ This repository has places to eat for the following cities:
 * [Hyderabad, Telangana](/locations/Hyderabad)
 * [Newport Beach, CA](/locations/Newport Beach)
 * [Orlando, FL](/locations/Orlando)
+* [San Francisco, CA](/locations/San Francisco)
 * [Seattle, WA](/locations/Seattle)
 * [Southlake, TX](/locations/Southlake)
 * [The Woodlands, TX](/locations/The Woodlands)
