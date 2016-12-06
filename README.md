@@ -2,7 +2,7 @@
 
 # Where to Eat?
 
-Places at which we like to eat :knife_fork_plate:
+Places at which we like to eat :fork_and_knife:
 
 This repository has places to eat for the following cities:
 
